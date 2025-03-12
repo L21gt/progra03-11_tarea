@@ -4,8 +4,8 @@ let reto = 0; //Variable reto con valor inicial 0
 
 const separador = () => {
     reto++;// aumenta el conteo en 1 cada vez que se invoque la funcion
-  console.log('************************************');
-  console.log(`Reto ${reto}`);
+    console.log('************************************');
+    console.log(`Reto ${reto}`);
     console.log('------------------------------------');
 }
 
